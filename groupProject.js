@@ -14,3 +14,4 @@ var getRepoName = function () {
     document.location.replace('./index.html');
   }
 };
+
